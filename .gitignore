@@ -2,3 +2,6 @@
 !.zshrc
 !.gitignore
 !.vimrc
+!.local/
+!.local/bin/
+!.local/bin/*
