@@ -1,0 +1,14 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+DVI-D-0 HDMI-0 XPosition 1920x1080=560
+DVI-D-0 HDMI-0 YPosition 1920x1080=254
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAH1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindowState]
+Splitter=220,579
+
+[Search]
+ScopeSelection=0

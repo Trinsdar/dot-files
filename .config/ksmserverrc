@@ -1,0 +1,27 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1017f1ae19e1c3000172513834900000011330005
+clientId2=1017f1ae19e1c3000172515415600000011330010
+count=2
+program1=/usr/bin/firewall-applet
+program2=/usr/bin/polymc
+restartCommand1=/usr/bin/firewall-applet,-session,1017f1ae19e1c3000172513834900000011330005_1725158573_495995,-name,firewall-applet
+restartCommand2=/usr/bin/polymc,-session,1017f1ae19e1c3000172515415600000011330010_1725158573_495939
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=trinsdar
+userId2=trinsdar
+
+[SubSession: 278935d6-777f-413c-b59b-b452e5bdb396]
+count=0
+
+[SubSession: 773dcce2-73c8-40c8-864b-5b37f42c70ef]
+count=0
+
+[SubSession: 90991dc9-9d8b-4220-8b3e-cd0f0b11a422]
+count=0

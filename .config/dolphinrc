@@ -1,0 +1,54 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[CreateDialog]
+LastMimeType=application/zip
+
+[ExtractDialog]
+2 screens: Height=560
+2 screens: Width=1280
+DVI-D-0 HDMI-0 Height 1920x1080 HDMI-0=560
+DVI-D-0 HDMI-0 Width 1920x1080 HDMI-0=1272
+DirHistory[$e]=$HOME/Downloads/visualvm/,$HOME/IdeaProjects/mod-projects/GregTech/common/src/main/resources/assets/gti/new-stone-textures/,$HOME/.local/share/multimc/instances/mod-testing/.minecraft/resourcepacks/,$HOME/IdeaProjects/mod-projects/GT-4-Reimagined/gt4-source/
+
+[General]
+OpenExternallyCalledFolderInNewTab=true
+Version=202
+ViewPropsTimestamp=2022,2,23,17,29,59.319
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/IdeaProjects/mod-projects/GT-4-Reimagined/gt4-source/,file:$HOME/.local/share/multimc/instances/mod-testing/.minecraft/resourcepacks/,file:$HOME/Downloads/visualvm/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=616
+2 screens: Width=479
+DVI-D-0 HDMI-0 Height 1920x1080=464
+DVI-D-0 HDMI-0 Height 1920x1080 DVI-D-0=616
+DVI-D-0 HDMI-0 Height 1920x1080 HDMI-0=464
+DVI-D-0 HDMI-0 Width 1920x1080=370
+DVI-D-0 HDMI-0 Width 1920x1080 DVI-D-0=439
+DVI-D-0 HDMI-0 Width 1920x1080 HDMI-0=397
+
+[MainWindow]
+DVI-D-0 HDMI-0 XPosition 1920x1080=2489
+DVI-D-0 HDMI-0 YPosition 1920x1080=221
+DVI-D-1 HDMI-1 XPosition 1920x1080=2500
+DVI-D-1 HDMI-1 YPosition 1920x1080=245
+ToolBarsMovable=Disabled
+VNC-0 XPosition 1366x735=417
+VNC-0 YPosition 1366x735=195
+default XPosition 1920x1080=580
+default YPosition 1920x1080=245
+screen XPosition 1366x768=303
+screen YPosition 1366x768=157
+
+[Open-with settings]
+CompletionMode=1
+History=fire,blo,lxqt,dolp,firef,nbt,kate,kat,kon
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,svgthumbnail,windowsexethumbnail,windowsimagethumbnail,fontthumbnail,directorythumbnail

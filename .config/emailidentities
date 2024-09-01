@@ -1,0 +1,12 @@
+[General]
+Default Identity=243599634
+
+[Identity #0]
+Default Domain=fedora
+Disable Fcc=false
+Identity=trinsdar
+Image Location=
+Inline Signature=
+Name=trinsdar
+Signature Enabled=false
+uoid=243599634

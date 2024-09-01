@@ -1,0 +1,9 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Timeout=15
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/trinsdar/.local/share/wallpapers/milky-way-01.jpg
+SlidePaths=/home/trinsdar/.local/share/wallpapers,/usr/share/wallpapers

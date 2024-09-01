@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion,spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureDelay=4
+captureMode=0
+window-position=2804,30
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/trinsdar/Pictures/Screenshot_20240816_193504.png
+lastImageSaveLocation=file:///home/trinsdar/Pictures/Screenshot_20240816_193504.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

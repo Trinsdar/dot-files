@@ -1,0 +1,11 @@
+[activities]
+278935d6-777f-413c-b59b-b452e5bdb396=vnc
+b9f3c26e-7719-496a-ba59-63dd1cff5a30=Default
+
+[activities-icons]
+278935d6-777f-413c-b59b-b452e5bdb396=activities
+
+[main]
+currentActivity=b9f3c26e-7719-496a-ba59-63dd1cff5a30
+runningActivities=b9f3c26e-7719-496a-ba59-63dd1cff5a30
+stoppedActivities=278935d6-777f-413c-b59b-b452e5bdb396

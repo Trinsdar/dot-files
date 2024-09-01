@@ -1,0 +1,5 @@
+[General]
+CalculatorMode=numeral
+
+[KCalcMainWindow]
+ToolBarsMovable=Disabled
