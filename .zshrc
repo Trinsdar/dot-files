@@ -12,6 +12,11 @@ export DEVKITARM=/opt/devkitpro/devkitARM
 export DEVKITPPC=/opt/devkitpro/devkitPPC
 export NVIM_LISTEN_ADDRESS=/tmp/nvimsocket
 export NVIMQT_LISTEN_ADDRESS=/tmp/nvimqtsocket
+if ! ps -p $PPID | grep -q java; then
+    ZSH_TMUX_AUTOSTART=true;
+fi
+export ZSH_TMUX_AUTOQUIT=false
+export ZSH_TMUX_AUTOCONNECT=false
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -79,7 +84,7 @@ ZSH_THEME="candy"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git tmux)
 
 source $ZSH/oh-my-zsh.sh
 
