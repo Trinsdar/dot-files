@@ -141,24 +141,5 @@ n ()
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias yay="sh ~/.local/bin/yay-wrapper.sh"
-alias lg="lazygit"
-alias ly="lazygit --git-dir=$HOME/.cfg --work-tree=$HOME"
-alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
-alias nvim="editor"
-alias :q="exit"
-alias neofetch="fastfetch"
-alias icat="kitten icat"
-
-#ls
-alias ls='eza -al --color=always --group-directories-first' # my preferred listing
-alias la='eza -a --color=always --group-directories-first'  # all files and dirs
-alias ll='eza -l --color=always --group-directories-first'  # long format
-alias lt='eza -aT --color=always --group-directories-first' # tree listing
-alias l.='eza -al --color=always --group-directories-first ../' # ls on the PARENT directory
-alias l..='eza -al --color=always --group-directories-first ../../' # ls on directory 2 levels up
-alias l...='eza -al --color=always --group-directories-first ../../../' # ls on directory 3 levels up
-
+source .aliases
 
