@@ -145,6 +145,7 @@ n ()
 # alias zshconfig="mate ~/.zshrc"
 # alias yay="sh ~/.local/bin/yay-wrapper.sh"
 alias lg="lazygit"
+alias ly="lazygit --git-dir=$HOME/.cfg --work-tree=$HOME"
 alias nvim="editor"
 alias :q="exit"
 alias gt4="cd ~/IdeaProjects/mod-projects/GT-4-Reimagined"
