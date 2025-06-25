@@ -12,10 +12,9 @@ export DEVKITARM=/opt/devkitpro/devkitARM
 export DEVKITPPC=/opt/devkitpro/devkitPPC
 export NVIM_LISTEN_ADDRESS=/tmp/nvimsocket
 export NVIMQT_LISTEN_ADDRESS=/tmp/nvimqtsocket
-if ! ps -p $PPID | grep -q java; then
-    ZSH_TMUX_AUTOSTART=true;
-fi
-export ZSH_TMUX_AUTOQUIT=false
+#if [[ -n $IDEA_TERMINAL]]; then
+    #export ZSH_TMUX_AUTOSTART=true;
+#fi
 export ZSH_TMUX_AUTOCONNECT=false
 
 # Set name of the theme to load --- if set to "random", it will
