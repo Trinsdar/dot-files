@@ -1,7 +1,6 @@
 alias lg="lazygit"
 alias ly="lazygit --git-dir=$HOME/.cfg --work-tree=$HOME"
 alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
-#alias nvim="editor"
 alias :q="exit"
 alias neofetch="fastfetch"
 alias icat="kitten icat"
