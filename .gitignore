@@ -2,6 +2,7 @@
 !.aliases
 !.zshrc
 !.gitignore
+!.gitconfig
 !.vimrc
 !.local/
 !.local/bin/
