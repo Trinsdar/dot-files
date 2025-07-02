@@ -4,6 +4,7 @@
 !.gitignore
 !.gitconfig
 !.vimrc
+!.ideavimrc
 !.local/
 !.local/bin/
 !.local/bin/*
