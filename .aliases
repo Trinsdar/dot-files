@@ -1,4 +1,3 @@
-alias lg="lazygit"
 alias ly="lazygit --git-dir=$HOME/.cfg --work-tree=$HOME"
 alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
 alias :q="exit"
